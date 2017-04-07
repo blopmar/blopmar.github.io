@@ -1,10 +1,21 @@
-h1 {
-  color:rgb(28, 173, 202);
-  font-family:  'Amatic SC', cursive;
+body {
+  background-color:rgb(128, 200, 202)
 }
 p {
   font-family:"Josefin Slab", monospace;
 }
-body {
-  background-color:rgb(128, 200, 202)
+h1 {
+  color:rgb(28, 173, 202);
+  font-family: 'Amatic SC', cursive;
+  font-size: 48px
+}
+h2 {
+  color:rgb(245, 245, 220);
+  font-family: 'Amatic SC', cursive;
+  font-size: 48px
+}
+h3 {
+  color:rgb(219, 112, 147);
+  font-family: 'Amatic SC', cursive;
+  font-size: 48px
 }
