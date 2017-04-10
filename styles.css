@@ -5,9 +5,12 @@ body {
   background-color:rgb(128, 200, 202)
 }
 p {
-  font-family:sans-serif;
-  line-height: 1.5em
-  font-size: 120em
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-style:italic;
+  line-height: normal;
+  font-size: 70px
+  margin-left:auto;
+  margin-right: auto;
 }
 a {
   text-decoration: none
@@ -15,19 +18,19 @@ a {
 h1 {
   color:rgb(28, 173, 202);
   font-family: 'Amatic SC', cursive;
-  font-size: 70px
+  font-size: 200px
   font-weight:bold;
 }
 h2 {
   color:rgb(249, 196, 192));
   font-family: 'Amatic SC', cursive;
-  font-size: 40px
+  font-size: 170px
   font-weigth:normal;
 }
 h3 {
   color:rgb(219, 112, 147);
   font-family: 'Amatic SC', cursive;
-  font-size: 35px
+  font-size: 90px
   font-weight:lighter;
 }
 .left {
@@ -39,7 +42,7 @@ h3 {
 }
 img {
   margin: 15px 15px 15px 15px
-  border: 2px
+  border: 2px solid grey
   width: 300
 
 }
